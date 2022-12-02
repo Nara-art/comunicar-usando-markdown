@@ -5,6 +5,8 @@
  ```
 Entra aquí para más info: https://www.ekologistakmartxan.org/es/ 
  ```
+ ## Tareas por hacer
+ 
  - [ ] Hacer un esbozo de mi portfolio sostenible
  - [ ] Pesentarme al mundo
  - [ ] Plantar un bosque
