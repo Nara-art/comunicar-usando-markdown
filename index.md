@@ -3,7 +3,8 @@
 ##### Esto es un bosque <h5>
 ![Imagen de un bosque](https://64.media.tumblr.com/e746384d214dcc8240d5e898ce871db8/tumblr_ng37kbjFNO1qfirfao1_1280.jpg)
  ```
-Entra aquí para más info: https://www.ekologistakmartxan.org/es/ 
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
  ```
  ## Tareas por hacer
  
